@@ -1,16 +1,40 @@
-## Hi there 👋
+## Hi, I'm Niranjan 👋
 
-<!--
-**niranjansthaa11-code/niranjansthaa11-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a beginner developer exploring the technical world one step at a time.
 
-Here are some ideas to get you started:
+Currently learning 🎮 Godot Game Development  
+Also diving into 🌐 Web Development (HTML and CSS basics for now)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm Working On
+- Building my first game projects in Godot
+- Strengthening my foundation in web development
+- Turning ideas into small but meaningful projects
+
+---
+
+### 🛠 Tools I Use
+- Godot Engine
+- VS Code
+- Git & GitHub
+
+---
+
+### 🌱 About Me
+Just an enthusiastic learner starting from zero and building forward.  
+I believe in small commits, consistent effort, and real growth.
+
+Offline, I enjoy playing guitar 🎸  
+And I genuinely love meeting new people and making real-world connections.
+
+---
+
+### 📫 Reach Me
+- GitHub: You're already here 🙂
+- Email: niranjansthaa11@gmail.com
+
+---
+
+> Level 1 Developer.  
+> Grinding quietly. Building steadily.
