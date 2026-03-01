@@ -1,6 +1,6 @@
 ## Hi, I'm Niranjan 👋
 
-🎮 Currently teaching pixels how to behave (Godot)
+🎮 Currently teaching pixels how to behave (Godot) </br>
 🌐 Learning how the web actually works
 🚀 Building small projects before they build me
 
