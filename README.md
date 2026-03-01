@@ -1,40 +1,29 @@
 ## Hi, I'm Niranjan 👋
 
-I’m a beginner developer exploring the technical world one step at a time.
+🎮 Currently teaching pixels how to behave (Godot)
+🌐 Learning how the web actually works
+🚀 Building small projects before they build me
 
-Currently learning 🎮 Godot Game Development  
-Also diving into 🌐 Web Development (HTML and CSS basics for now)
+🛠 Godot • VS Code • Git & GitHub
 
----
+🎸 Plays guitar when the code compiles
+🤝 Better at networking offline than online
 
-### 🚀 What I'm Working On
-- Building my first game projects in Godot
-- Strengthening my foundation in web development
-- Turning ideas into small but meaningful projects
+📫 niranjansthaa11@gmail.com
 
----
+> Beginner today. Better tomorrow.
+> 
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niranjansthaa11@gmail.com) 
 
-### 🛠 Tools I Use
-- Godot Engine
-- VS Code
-- Git & GitHub
-
----
-
-### 🌱 About Me
-Just an enthusiastic learner starting from zero and building forward.  
-I believe in small commits, consistent effort, and real growth.
-
-Offline, I enjoy playing guitar 🎸  
-And I genuinely love meeting new people and making real-world connections.
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=niranjansthaa11-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=niranjansthaa11-code&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=niranjansthaa11-code&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=niranjansthaa11-code&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📫 Reach Me
-- GitHub: You're already here 🙂
-- Email: niranjansthaa11@gmail.com
-
----
-
-> Level 1 Developer.  
-> Grinding quietly. Building steadily.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
