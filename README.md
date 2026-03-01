@@ -11,7 +11,7 @@
 
 📫 niranjansthaa11@gmail.com</br>
 
-> Beginner today. Better tomorrow.</br>
+> Small commits. Big dreams.  </br>
 > 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niranjansthaa11@gmail.com) 
