@@ -1,17 +1,17 @@
 ## Hi, I'm Niranjan 👋
 
 🎮 Currently teaching pixels how to behave (Godot) </br>
-🌐 Learning how the web actually works
-🚀 Building small projects before they build me
+🌐 Learning how the web actually works</br>
+🚀 Building small projects before they build me</br>
 
-🛠 Godot • VS Code • Git & GitHub
+🛠 Godot • VS Code • Git & GitHub</br>
 
-🎸 Plays guitar when the code compiles
-🤝 Better at networking offline than online
+🎸 Plays guitar when the code compiles</br>
+🤝 Better at networking offline than online</br>
 
-📫 niranjansthaa11@gmail.com
+📫 niranjansthaa11@gmail.com</br>
 
-> Beginner today. Better tomorrow.
+> Beginner today. Better tomorrow.</br>
 > 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:niranjansthaa11@gmail.com) 
